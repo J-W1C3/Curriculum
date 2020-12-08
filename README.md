@@ -11,3 +11,11 @@
 - **CTFTime**:[W1C3](https://ctftime.org/user/54814)
 
 # Sobre mi
+Técnico en Sistemas Microinformativos y Redes, actualmente estudiando Desarrollo de Aplicaciones Multiplataforma. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro del equipo de la UCA Colors CTF(Top6 Nacional en 2020 en CTFTime). Dentro del equipo soy el encargado de Forensics, Crypto y futura especialización en explotación de binarios. Entusiasta por el hardware hacking. 
+
+# Campeonatos
+- Top7 en competición organizada por INCIBE en 2018 compitiendo con SumeriosTeam y siendo el Team Leader(CyberOlympics).
+- Clasificado como top3 para la semifinal de la National CyberLeague de la Guarda Civil en 2020 compitiendo con Cr4ckMe5.
+
+# Formación
+

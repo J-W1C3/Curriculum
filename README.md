@@ -21,8 +21,6 @@ He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superi
 - Android Studio -> Java
 - Mysql
 - Git
-- Swing
-- Javafx
 - Html
 - Css
 - Javascript
@@ -32,6 +30,7 @@ He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superi
 # Formación
 ## Udemy
 - Introdución al Hacking y la Cyberseguridad: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Introduccion%20Hacking%20y%20Cyberseguridad.jpg)
+- Introdución a Servidores Linux con Debian: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/)
 
 ## Meritos
 - Top7 en competición organizada por INCIBE en 2018 compitiendo con SumeriosTeam y siendo el Team Leader(CyberOlympics).[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/CyberOlympics_JoseAntonio.pdf)

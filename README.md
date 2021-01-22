@@ -13,6 +13,8 @@
 # Sobre mi
 Técnico en Sistemas Microinformativos y Redes, actualmente estudiando Desarrollo de Aplicaciones Multiplataforma. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro del equipo de la UCA Colors CTF(Top6 Nacional en 2020 en CTFTime). Dentro del equipo soy el encargado de Forensics, Crypto y futura especialización en explotación de binarios. Entusiasta por el hardware hacking. 
 
+# Experiencia
+
 ## Lenguajes y tecnologías
 
 He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superior
@@ -26,6 +28,8 @@ He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superi
 - Javascript
 - Bash
 - Ensamblador(Proximamente)
+
+
 
 # Formación
 ## Udemy

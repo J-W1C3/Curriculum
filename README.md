@@ -14,6 +14,9 @@
 Técnico en Sistemas Microinformativos y Redes, actualmente estudiando Desarrollo de Aplicaciones Multiplataforma. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro del equipo de la UCA Colors CTF(Top6 Nacional en 2020 en CTFTime). Dentro del equipo soy el encargado de Forensics, Crypto y futura especialización en explotación de binarios. Entusiasta por el hardware hacking. 
 
 # Experiencia
+- **14/03/2019** - **14/06/2019** Practicas de Grado Medio en BeOneOff en la parte de BeOneSec como Auditor Web (Sevilla)
+
+# Formación
 
 ## Lenguajes y tecnologías
 
@@ -30,8 +33,6 @@ He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superi
 - Ensamblador(Proximamente)
 
 
-
-# Formación
 ## Udemy
 - Introdución al Hacking y la Cyberseguridad: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Introduccion%20Hacking%20y%20Cyberseguridad.jpg)
 - Introdución a Servidores Linux con Debian: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/Certificado_servidores.pdf)

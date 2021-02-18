@@ -21,6 +21,7 @@ Técnico en Sistemas Microinformativos y Redes, actualmente estudiando Desarroll
 ## Lenguajes y tecnologías
 
 He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superior
+
 - Python
 - Java
 - Android Studio -> Java
@@ -39,7 +40,7 @@ He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superi
 - The Certfied Ethical Hacker Course 2020 Edition: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/TheCertfiedEthicalHackerCourse.pdf)
 
 ## Meritos
-- Top7 en competición organizada por INCIBE en 2018 compitiendo con SumeriosTeam y siendo el Team Leader(CyberOlympics).[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/CyberOlympics_JoseAntonio.pdf)
+- Top7 en competición organizada por INCIBE en 2018 compitiendo con SumeriosTeam(CyberOlympics).[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/CyberOlympics_JoseAntonio.pdf)
 - Preseleccionado para la Seleccion Española, para competir en los ECSC2019
 - Clasificado como semifinalista en la National CyberLeague de la Guardia Civil
 

@@ -40,10 +40,10 @@ He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superi
 - The Certfied Ethical Hacker Course 2020 Edition: [Certificado](https://github.com/J-W1C3/Curriculum/blob/main/TheCertfiedEthicalHackerCourse.pdf)
 
 ## Meritos
-- ** 29/11/2018 ** Top7 en competición organizada por INCIBE compitiendo con SumeriosTeam(CyberOlympics).[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/CyberOlympics_JoseAntonio.pdf)
-- ** 23/07/2019 ** Preseleccionado para la Seleccion Española, para competir en los ECSC2019
-- ** 15/12/2020 ** Clasificado como semifinalista en la National CyberLeague de la Guardia Civil
-- ** 16/02/2021 ** Charla "Jugando a ser Hackers" al CES Juan Pablo II(Cádiz)
+- **29/11/2018** Top7 en competición organizada por INCIBE compitiendo con SumeriosTeam(CyberOlympics).[Certificado](https://github.com/J-W1C3/Curriculum/blob/main/CyberOlympics_JoseAntonio.pdf)
+- **23/07/2019** Preseleccionado para la Seleccion Española, para competir en los ECSC2019
+- **15/12/2020** Clasificado como semifinalista en la National CyberLeague de la Guardia Civil
+- **16/02/2021** Charla "Jugando a ser Hackers" al CES Juan Pablo II(Cádiz)
 
 
 

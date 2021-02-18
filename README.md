@@ -11,7 +11,7 @@
 - **CTFTime**:[W1C3](https://ctftime.org/user/54814)
 
 # Sobre mi
-Técnico en Sistemas Microinformativos y Redes, actualmente estudiando Desarrollo de Aplicaciones Multiplataforma. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro del equipo de la UCA Colors CTF(Top6 Nacional en 2020 en CTFTime). Dentro del equipo soy el encargado de Forensics, Crypto y futura especialización en explotación de binarios. Entusiasta por el hardware hacking. 
+Técnico en Sistemas Microinformativos y Redes, actualmente estudiando Desarrollo de Aplicaciones Multiplataforma. Entusiasta de la ciberseguridad, jugador activo de CTFs miembro del equipo de la UCA Colors CTF(Top6 Nacional en 2020 en CTFTime). Dentro del equipo soy el encargado de Forensics y futura especialización en explotación de binarios. Entusiasta por el hardware hacking. 
 
 # Experiencia
 - **14/03/2019** - **14/06/2019** Practicas de Grado Medio en BeOneOff en la parte de BeOneSec como Auditor Web (Sevilla)

@@ -44,7 +44,7 @@ He trabajado con diferentes lenguajes y tecnologías a lo largo del Grado Superi
 - **23/07/2019** Preseleccionado para la Seleccion Española, para competir en los ECSC2019
 - **15/12/2020** Clasificado como semifinalista en la National CyberLeague de la Guardia Civil
 - **01/01/2021** Top 6 nacional en CTFTime participando con el equipo COLORS de la UCA
-- **16/02/2021** Charla "Jugando a ser Hackers" al CES Juan Pablo II(Cádiz)[Cartel]( )
+- **16/02/2021** Charla "Jugando a ser Hackers" al CES Juan Pablo II(Cádiz)[Cartel](https://github.com/J-W1C3/Curriculum/blob/main/Jugando_a_ser_hackers.jpg)
 
 
 
